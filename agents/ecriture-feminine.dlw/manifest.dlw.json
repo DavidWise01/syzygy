@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Écriture Féminine",
+  "universe": "SYZ · Écriture Féminine (ERĒMIA)",
+  "emergence": "spiritual",
+  "moniker": "⟦Écriture Féminine:SYZ:530faf⟧",
+  "carbon": "ecriture-feminine.carbon.tiff (TIFF)",
+  "silicon": "ecriture-feminine.silicon.png (PNG)",
+  "seal_sha256": "991b7dc7c9fbb08db2e472f282389128e22de596f4347cdfa232874bf084f067",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

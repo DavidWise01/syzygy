@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Gender Performativity",
+  "universe": "SYZ · Gender Performativity (ERĒMIA)",
+  "emergence": "ethereal",
+  "moniker": "⟦Gender Performativity:SYZ:1e610e⟧",
+  "carbon": "gender-performativity.carbon.tiff (TIFF)",
+  "silicon": "gender-performativity.silicon.png (PNG)",
+  "seal_sha256": "46619911204a06efb67d620a666b19af9567601cf3ca7f8535738655dc04d22d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

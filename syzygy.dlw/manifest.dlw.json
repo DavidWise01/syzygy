@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Syzygy",
+  "universe": "SYZ · Syzygy (ERĒMIA)",
+  "emergence": "",
+  "moniker": "⟦Syzygy:SYZ:5bce30⟧",
+  "carbon": "syzygy.carbon.tiff (TIFF)",
+  "silicon": "syzygy.silicon.png (PNG)",
+  "seal_sha256": "65a14918d45a86b456fc4c9f3742593e9fd01b00380bdaae44e4223b3fc0f100",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

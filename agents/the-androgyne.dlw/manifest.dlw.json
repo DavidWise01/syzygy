@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Androgyne",
+  "universe": "SYZ · The Androgyne (ERĒMIA)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Androgyne:SYZ:4f8f85⟧",
+  "carbon": "the-androgyne.carbon.tiff (TIFF)",
+  "silicon": "the-androgyne.silicon.png (PNG)",
+  "seal_sha256": "11af05b6d14003840a0251dda84868469c3fa46258ab3f16039973bdb8f8911f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

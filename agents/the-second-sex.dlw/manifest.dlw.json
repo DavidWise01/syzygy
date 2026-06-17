@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Second Sex",
+  "universe": "SYZ · The Second Sex (ERĒMIA)",
+  "emergence": "natural",
+  "moniker": "⟦The Second Sex:SYZ:b1a9a4⟧",
+  "carbon": "the-second-sex.carbon.tiff (TIFF)",
+  "silicon": "the-second-sex.silicon.png (PNG)",
+  "seal_sha256": "fb217280025188736c1608d621f015850f3246894bc2564aa47b1669140b0312",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
