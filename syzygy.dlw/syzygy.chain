@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 718
 slug  : syzygy
-seal  : 65a14918d45a86b456fc4c9f3742593e9fd01b00380bdaae44e4223b3fc0f100
-prev  : e7f58e329d907c48152112b58917ad4534f6020a872df67f5bbf7b5cb5125b97
-link  : b61b71e0151803acc3ac1cb924991e8675de8be81ff01cd99ccff7e8ab4c613d
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 91d0a35acb8d7d5a3a0251744829cb819944ec1a339aa660a8ee1ae29fbe2251
+prev  : efa3e46dca0ed97d6835126306d7d48fcc673b8cdf6908b9b614ad6f83e2601c
+link  : fc274655da9815609834fe555b9e1e3b33a328c6982ea9149fb6b0a98b51f6a9
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
